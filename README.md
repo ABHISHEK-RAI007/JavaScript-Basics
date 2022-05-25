@@ -1,2 +1,2 @@
 # JavaScript-Intermediate
-This repo consist my learning files.
+This repo consist of my learning files.
